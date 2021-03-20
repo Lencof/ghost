@@ -25,13 +25,15 @@
 #
 
 import os
-import sys
+import re
+import sys 
 import subprocess
 
 from core.badges import badges
 from core.transfer import transfer
 
-class ghost:
+# create class ghost():
+class ghost():
     def __init__(self):
         self.badges = badges()
         self.transfer = transfer(self)
