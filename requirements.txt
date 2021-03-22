@@ -1,11 +1,11 @@
-pip install badges
-pip install ghost
-pip install keyboard
-pip install binascii
-pip install subprocess
-pip install transfer
-pip install tty
-pip install termios
-pip install chdir
-pip install fsmanip
-pip install pyinstaller
+badges
+ghost
+keyboard
+binascii
+subprocess
+transfer
+tty
+termios
+chdir
+fsmanip
+pyinstaller
